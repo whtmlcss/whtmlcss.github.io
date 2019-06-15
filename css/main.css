@@ -1,0 +1,30 @@
+h6{
+    color:yellow; 
+    font-size: 25px;
+   /* background:red;*/
+    background: url(../logohtml.png) red;
+    display: inline;
+    margin:25px 25px 25px 25px;
+    padding:25px;
+    border: solid 2px black;
+}
+button{
+    background: red;
+    color: #FFFFFF;
+    padding: 5px;
+    border-radius: 5px;
+    border:none;
+}
+p.tituloverde{
+    color:#04B404;
+}
+.miclase{
+    color:#000000;
+}
+#titulorosa{
+    color:#FE2EC8;
+    font-size: 25px;
+}
+.novisible{
+    display: none;
+}
